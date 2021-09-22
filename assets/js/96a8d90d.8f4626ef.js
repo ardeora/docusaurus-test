@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrafana_panel_docs=self.webpackChunkgrafana_panel_docs||[]).push([[7577],{439:function(s){s.exports=JSON.parse('{"allTagsPath":"/docusaurus-test/blog/tags","slug":"/docusaurus-test/blog/tags/greetings","name":"greetings","count":1,"permalink":"/docusaurus-test/blog/tags/greetings"}')}}]);
