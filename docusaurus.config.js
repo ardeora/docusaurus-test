@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'GlobalNOC Worldview Panel',
   tagline: 'Display Network Maps on Grafana',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ardeora.github.io/',
+  baseUrl: '/globalnoc-worldview-panel',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'GlobalNOC', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-test', // Usually your repo name.
 
   presets: [
     [
