@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'GlobalNOC Worldview Panel',
   tagline: 'Display Network Maps on Grafana',
   url: 'https://ardeora.github.io/',
-  baseUrl: '/globalnoc-worldview-panel',
+  baseUrl: '/globalnoc-worldview-panel/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
